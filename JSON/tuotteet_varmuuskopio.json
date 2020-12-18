@@ -1,0 +1,86 @@
+[
+    {
+        "nimi": "Logitech K270",
+        "tuoteid": 1,
+        "tuotekuva_url": "https://cdn.verk.net/576/images/33/2_145225-700x423.jpeg",
+        "kategoria": "Mouse",
+        "hinta": 18.9,
+        "paino": 0.2
+    },
+    {
+        "nimi": "Logitech K400 Plus",
+        "tuoteid": 2,
+        "tuotekuva_url": "https://cdn.verk.net/288/images/80/2_260066-592x336.jpeg",
+        "kategoria": "Mouse",
+        "hinta": 40.9,
+        "paino": 0.3
+    },
+    {
+        "nimi": "Logitech MK540 Advanced",
+        "tuoteid": 3,
+        "tuotekuva_url": "https://cdn.verk.net/288/images/70/2_462921-2172x785.jpeg",
+        "kategoria": "Mouse",
+        "hinta": 99.9,
+        "paino": 0.4
+    },
+    {
+        "nimi": "Logitech MK 470 Slim",
+        "tuoteid": 4,
+        "tuotekuva_url": "https://cdn.verk.net/288/images/70/2_575830-4000x2485.jpg",
+        "kategoria": "Mouse",
+        "hinta": 54.9,
+        "paino": 0.5
+    },
+    {
+        "nimi": "Logitech K580",
+        "tuoteid": 5,
+        "tuotekuva_url": "https://cdn.verk.net/288/images/19/2_576394-3485x2145.jpg",
+        "kategoria": "Mouse",
+        "hinta": 54.9,
+        "paino": 0.6
+    },
+    {
+        "nimi": "Logitech MX Master 2S",
+        "tuoteid": 6,
+        "tuotekuva_url":"https://cdn.verk.net/960/images/91/2_404981-1640x2500.jpeg",
+        "kategoria":"Mouse",
+        "hinta": 99.90, 
+        "paino": 0.1
+    },
+
+
+    {
+        "nimi": "Logitech K400 Plus",
+        "tuoteid": 7,
+        "tuotekuva_url": "https://cdn.verk.net/288/images/80/2_260066-592x336.jpeg",
+        "kategoria": "Keyboard",
+        "hinta": 40.9,
+        "paino": 0.3
+    },
+    {
+        "nimi": "Logitech MK540 Advanced",
+        "tuoteid": 8,
+        "tuotekuva_url": "https://cdn.verk.net/288/images/70/2_462921-2172x785.jpeg",
+        "kategoria": "Keyboard",
+        "hinta": 99.9,
+        "paino": 0.4
+    },
+    {
+        "nimi": "Logitech MK 470 Slim",
+        "tuoteid": 9,
+        "tuotekuva_url": "https://cdn.verk.net/288/images/70/2_575830-4000x2485.jpg",
+        "kategoria": "Keyboard",
+        "hinta": 54.9,
+        "paino": 0.5
+    },
+    {
+        "nimi": "Logitech K580",
+        "tuoteid": 10,
+        "tuotekuva_url": "https://cdn.verk.net/288/images/19/2_576394-3485x2145.jpg",
+        "kategoria": "Keyboard",
+        "hinta": 54.9,
+        "paino": 0.6
+    }
+
+]
+
